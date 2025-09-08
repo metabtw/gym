@@ -1,5 +1,3 @@
-Tabii 👍 Aşağıya tek parça halinde tam bir `README.md` dosyası veriyorum:
-
 ````markdown
 # 🏋️‍♂️ FitLife Premium Spor Salonu Üyelik Sistemi
 
@@ -190,3 +188,4 @@ Next.js, Tailwind CSS, Prisma ve open-source topluluğuna teşekkürler!
 **FitLife Premium — Sağlıklı yaşamın adresi. 💪**
 
 <img width="1367" height="1884" alt="image" src="https://github.com/user-attachments/assets/9426b2a2-9657-4cd4-bf96-047197062113" />
+
